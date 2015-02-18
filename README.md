@@ -7,4 +7,4 @@ Declan Costello,
 Jack Gallagher,
 Kelson Martins,
 Leila Rangel,
-Robert McGregor.
+Reverend Speed.
